@@ -28,6 +28,7 @@ public class Araba {
     private String kayitNo;
 
     private int yil;
+    // int di, biz double yaptık.
     private double fiyat;
 
     public Araba(String marka, String model, String renk, String kayitNo, int yil, double fiyat) {
